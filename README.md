@@ -156,7 +156,8 @@ This project is deployed on AWS EC2 using Docker containers.
 
 ## Login Page
 
-![Uploading Screenshot 2026-06-01 205630.png…]()
+<img width="1919" height="1071" alt="Screenshot 2026-06-01 205630" src="https://github.com/user-attachments/assets/a2e78987-806f-4b7c-9e1f-6183fe467458" />
+
 
 
 ---
@@ -178,12 +179,6 @@ git checkout -b feature-name
 git commit -m "Added new feature"
 git push origin feature-name
 ```
-
----
-
-# License
-
-MIT License
 
 ---
 
