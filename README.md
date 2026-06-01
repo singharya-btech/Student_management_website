@@ -4,14 +4,6 @@
 
 A full-stack MERN (MongoDB, Express.js, React.js, Node.js) based Student Management System deployed using Docker on AWS EC2.
 
----
-
-## Live Demo
-
-http://3.6.126.224:3000/login
-
----
-
 ## Features
 
 - Student Registration & Login
@@ -66,7 +58,7 @@ student-management-system/
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 ### Clone Repository
 
@@ -164,7 +156,8 @@ This project is deployed on AWS EC2 using Docker containers.
 
 ## Login Page
 
-<img width="100%" src="./screenshots/login.png"/>
+![Uploading Screenshot 2026-06-01 205630.png…]()
+
 
 ---
 
@@ -196,14 +189,10 @@ MIT License
 
 # Developer
 
-Developed by Your Name
-
-GitHub: https://github.com/your-username
+Arya Prakash Singh
 
 ---
 
-# Auther
-Arya prakash Singh
 
 # Team Leader
 Ujjwal Mandal
